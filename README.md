@@ -1,6 +1,8 @@
 **Packapeer Frontend HTML/CSS**
 This repository contains the frontend code for the Packapeer website. It includes HTML and CSS files that define the structure and styling of the webpages.
 
+**view website** : https://main.dbf17yzrncf3f.amplifyapp.com/
+
 **Clone the repository:**
 git clone https://github.com/Ajmalka84/packapeer-frontend-html-css.git
 
